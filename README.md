@@ -65,7 +65,7 @@ This project demonstrates how machine learning can be applied to predict custome
 
 **Yogesh Shewalkar**  
 📧 [yogeshshewalkar02@gmail.com](mailto:yogeshshewalkar02@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/shewalkar-yogesh) | [GitHub](https://github.com/YogeshShewalkar)
+🔗 [LinkedIn](https://www.linkedin.com/in/shewalkar-yogesh) | [GitHub](https://github.com/shewalkar-yogesh)
 
 ---
 
